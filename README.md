@@ -43,6 +43,7 @@ RAG addresses a fundamental limitation of LLMs: their static knowledge cutoff an
 - [LlamaIndex RAG Tutorial](https://docs.llamaindex.ai/en/stable/getting_started/starter_example/): Getting started with LlamaIndex for RAG
 - [Haystack RAG Pipeline](https://docs.haystack.deepset.ai/docs/retrieval-augmented-generation): Building RAG pipelines with Haystack
 - [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques): A comprehensive open-source collection of advanced Retrieval-Augmented Generation techniques as runnable Jupyter notebooks — chunking strategies, query transformations (HyDE, multi-query), hybrid search, reranking, self-query, parent-child retrieval, graph RAG, multi-hop retrieval, and evaluation
+- [RAG Interview System](https://github.com/ather-techie/rag-interview-system): A RAG-powered interview preparation system with 418 curated Q&A pairs (Basic → Advanced) covering 29 RAG architecture patterns — including Naive, Agentic, Graph, Corrective, Self-RAG, Speculative, Multimodal, RAPTOR, HyDE, FLARE, RAG-Fusion, and more — plus 70 production failure-mode questions on hallucination, retrieval gaps, and context window management
 
 #### Production & Best Practices
 
